@@ -1,1 +1,1 @@
-This is a simple code to test javascript.
+This is a simple code for type testing in html,css and javascript.
